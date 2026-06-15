@@ -1,8 +1,8 @@
-function mutipicacao(a: number, b:number) {
+function mutipicacao(a: number, b:number): number {
     return a * b
 }
 
-function saudaocao(nome:string){
+function saudaocao(nome:string): string{
     return `Ola ${nome}`
 }
 
